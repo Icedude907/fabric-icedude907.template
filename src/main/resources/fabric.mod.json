@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "modid",
-  "version": "$version",
+  "version": "${version}",
 
   "name": "Template Mod",
   "description": "https://fabricmc.net/wiki/documentation:fabric_mod_json",
@@ -19,6 +19,6 @@
   ],
 
   "depends": {
-    "minecraft": "1.18.x"
+    "minecraft": "1.18.2"
   }
 }
